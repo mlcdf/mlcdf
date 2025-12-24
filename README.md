@@ -1,1 +1,2 @@
-I'm in the process of migrating most of my personnal stuff out of GitHub. I'll keep this account mostly for work purposes.
+GitHub not being immune to [enshittification](https://en.wikipedia.org/wiki/Enshittification), I'm moving my personal work to Framagit.org.
+This GitHub account stays for professional stuff mostly.
